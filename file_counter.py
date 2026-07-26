@@ -6,3 +6,4 @@ for file in files:
     counter += 1
 print("The total number of files is: ", counter)
 
+
